@@ -14,7 +14,7 @@ Discord: XxMiyamuraDaddyxX#6969
     <img src="https://en.wikipedia.org/wiki/File:ISO_C%2B%2B_Logo.svg"
 
 ## Main projects
-- [**BananaMan1991/Tarkov-Scav-Case**](#insert link here) - Tarkov Scav Case collector
+- **BananaMan1991/Tarkov-Scav-Case** - Tarkov Scav Case collector
 
 ## Setup
 PC: [Ryzen 9 5900x](https://www.amd.com/en/products/cpu/amd-ryzen-9-5900x) |
