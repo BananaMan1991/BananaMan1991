@@ -12,6 +12,7 @@ Discord: XxMiyamuraDaddyxX#6969
 </a>
 <a href="https://en.wikipedia.org/wiki/C%2B%2B">
     <img src="https://github.com/BananaMan1991/BananaMan1991/blob/main/ASSETS/C++.png?raw=true"/>
+</a>
 
 ## Main projects
 - **BananaMan1991/Tarkov-Scav-Case** - Tarkov Scav Case collector
