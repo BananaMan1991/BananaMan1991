@@ -11,7 +11,7 @@ Discord: XxMiyamuraDaddyxX#6969
     <img src="https://github.com/sh0tzz/sh0tzz/blob/main/assets/c_icon_40x40.png?raw=true"/>
 </a>
 <a href="https://en.wikipedia.org/wiki/C%2B%2B">
-    <img src="https://en.wikipedia.org/wiki/File:ISO_C%2B%2B_Logo.svg">
+    <img src="https://github.com/BananaMan1991/BananaMan1991/blob/main/ASSETS/C++.png?raw=true"/>
 
 ## Main projects
 - **BananaMan1991/Tarkov-Scav-Case** - Tarkov Scav Case collector
