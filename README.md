@@ -1,7 +1,6 @@
 ## About
-🏫 Tehnička Škola Ruđera Boškovića<br>
-Niche: Nothing really<br>
-Discord: XxMiyamuraDaddyxX#6969
+🏫 A student at Breda Univestiry of Applied Sciences<br>
+A shift Leader/Manager of Ellis Gourmet Breda<br>
 
 ## Languages
 <a href="https://www.python.org/">
