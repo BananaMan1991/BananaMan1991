@@ -1,6 +1,8 @@
 ## About
 🏫 A student at Breda Univestiry of Applied Sciences<br>
 A shift Leader/Manager of Ellis Gourmet Breda<br>
+<a href="https://github.com/BananaMan1991/BananaMan1991/blob/main/ASSETS/CV_Frane_Ninic_3.25.pdf">CV
+</a>
 
 ## Languages
 <a href="https://www.python.org/">
