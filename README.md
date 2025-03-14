@@ -16,6 +16,7 @@ Discord: XxMiyamuraDaddyxX#6969
 
 ## Main projects
 - **BananaMan1991/Tarkov-Scav-Case** - Tarkov Scav Case collector
+- **BananaMan1991/TicTacToe** - A game of TicTacToe connected to a database
 
 ## Setup
 PC: [Ryzen 9 5900x](https://www.amd.com/en/products/cpu/amd-ryzen-9-5900x) |
